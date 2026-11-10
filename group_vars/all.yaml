@@ -14,5 +14,5 @@ CART_HOST: cart-backend-alb-{{ env }}.solohunting.online
 SHIPPING_HOST: shipping-backend-alb-{{ env }}.solohunting.online
 PAYMENT_HOST: payment-backend-alb-{{ env }}.solohunting.online
 
-FRONTEND_HOST: frontend-{{ env }}.solohunting.online
+#FRONTEND_HOST: frontend-{{ env }}.solohunting.online
 app_version: v3
